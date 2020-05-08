@@ -1,0 +1,25 @@
+{
+    "courses": [
+        {
+            "id": 100,
+            "title": "EL Robot de Platon",
+            "author": "Aldo BArtra",
+            "url": "http://elrobotdeplaton.com",
+            "addedAt": "2020-05-08T06:30:46.065Z"
+        },
+        {
+            "id": 101,
+            "title": "Chupa el perro",
+            "author": "German Garmendia",
+            "url": "http://germanchelo.com",
+            "addedAt": "2020-05-08T06:31:17.314Z"
+        },
+        {
+            "id": 102,
+            "title": "Luna de Pluton",
+            "author": "Drozz Rotzank",
+            "url": "http://dross.com",
+            "addedAt": "2020-05-08T06:31:38.511Z"
+        }
+    ]
+}
